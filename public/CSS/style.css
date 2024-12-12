@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.name,
+a {
+    text-decoration: none !important;
+}
+.name{
+    color: black !important;
+}
