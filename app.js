@@ -2,17 +2,22 @@ const express = require('express')
 const app = express()
 const port = 8080;
 const result = require("./models/res.js")
+require('dotenv').config();
 const mongoose = require("mongoose");
 const path = require("path")
-async function main() {
-    await mongoose.connect('mongodb://127.0.0.1:27017/result');
-}
+const dbUrl= process.env.ATLASDB_URI;
+
+
 
 main().then(() => {
-    console.log("connect to db");
+  console.log("connect to db");
 }).catch((err) => {
-    console.log(err);
+  console.log(err);
 });
+
+async function main() {
+    await mongoose.connect(dbUrl);
+}
 
 app.set("view engine ", "ejs");
 app.set("views", path.join(__dirname, "/views"));
