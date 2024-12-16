@@ -24,7 +24,7 @@ app.set("views", path.join(__dirname, "/views"));
 app.use(express.static(path.join(__dirname, "/public")));
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.render('./results/home.ejs')
 })
 
 app.get("/results", async (req, res) => {
