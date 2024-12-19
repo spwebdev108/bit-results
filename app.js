@@ -1,15 +1,16 @@
 const express = require('express')
 const { MongoClient } = require("mongodb");
 const cors = require("cors");
-const app = express()
 const port = 8080;
 const result = require("./models/res.js")
 require('dotenv').config();
 const mongoose = require("mongoose");
 const path = require("path")
-const dbUrl= process.env.ATLASDB_URI;
 
-const client = new MongoClient(dbUrl);
+const app = express()
+const PORT = process.env.PORT || 5000;
+
+const dbUrl= process.env.ATLASDB_URI;
 
 main().then(() => {
   console.log("connect to db");
@@ -33,14 +34,14 @@ app.get('/', (req, res) => {
 })
 
 app.get("/results", async (req, res) => {
-    let allResults = await result.find({});
-    res.render("./results/index.ejs", { allResults })
+  let allResults = await result.find({});
+  res.render("./results/index.ejs", { allResults })
 })
 
 app.get("/results/:id", async (req, res) => {
-    let { id } = req.params;
-    const r = await result.findById(id);
-    res.render("./results/show.ejs", { r});
+  let { id } = req.params;
+  const r = await result.findById(id);
+  res.render("./results/show.ejs", { r});
 })
 app.get("/contact", (req, res) => {
   res.render("./results/contact.ejs");
@@ -54,6 +55,8 @@ app.get("/avinash", (req, res) => {
 app.get("/abhinav", (req, res) => {
   res.render("./results/abhinav.ejs");
 })
+
+const client = new MongoClient(dbUrl);
 
 app.get("/search", async (req, res) => {
   const searchQuery = req.query.q || "";
@@ -72,6 +75,11 @@ app.get("/search", async (req, res) => {
     console.error(error);
     res.status(500).send("Error performing search");
   }
+});
+
+app.listen(PORT, async () => {
+  await connectDB();
+  console.log(`Server running on http://localhost:${PORT}`);
 });
 
 app.listen(port, () => {
