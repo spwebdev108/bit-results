@@ -1,4 +1,6 @@
 const express = require('express')
+const { MongoClient } = require("mongodb");
+const cors = require("cors");
 const app = express()
 const port = 8080;
 const result = require("./models/res.js")
@@ -7,7 +9,7 @@ const mongoose = require("mongoose");
 const path = require("path")
 const dbUrl= process.env.ATLASDB_URI;
 
-
+const client = new MongoClient(dbUrl);
 
 main().then(() => {
   console.log("connect to db");
@@ -22,6 +24,9 @@ async function main() {
 app.set("view engine ", "ejs");
 app.set("views", path.join(__dirname, "/views"));
 app.use(express.static(path.join(__dirname, "/public")));
+
+app.use(cors());
+app.use(express.json());
 
 app.get('/', (req, res) => {
     res.render('./results/home.ejs')
@@ -49,6 +54,25 @@ app.get("/avinash", (req, res) => {
 app.get("/abhinav", (req, res) => {
   res.render("./results/abhinav.ejs");
 })
+
+app.get("/search", async (req, res) => {
+  const searchQuery = req.query.q || "";
+  try {
+    await client.connect();
+    const database = client.db("test");
+    const collection = database.collection("res");
+
+    // Perform a text search
+    const results = await collection
+      .find({ $text: { $search: searchQuery } })
+      .toArray();
+
+    res.json(results);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send("Error performing search");
+  }
+});
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
