@@ -29,7 +29,7 @@ const resData = [
     SGPASem1: 5.77,
     SGPASem2: 6.91,
     Sr: 4,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aayush",
@@ -37,7 +37,7 @@ const resData = [
     SGPASem1: 6.95,
     SGPASem2: 7.18,
     Sr: 5,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aayush Kumar",
@@ -45,7 +45,7 @@ const resData = [
     SGPASem1: 6.09,
     SGPASem2: 7.0,
     Sr: 6,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Abhinav",
@@ -53,7 +53,7 @@ const resData = [
     SGPASem1: 6.73,
     SGPASem2: 5.45,
     Sr: 7,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Abhinav Nayak",
@@ -61,7 +61,7 @@ const resData = [
     SGPASem1: 6.86,
     SGPASem2: 6.36,
     Sr: 8,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Abhinav Tomar",
@@ -69,7 +69,7 @@ const resData = [
     SGPASem1: 4.23,
     SGPASem2: 5.23,
     Sr: 9,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Abhinay Kumar",
@@ -77,7 +77,7 @@ const resData = [
     SGPASem1: 7.64,
     SGPASem2: 7.82,
     Sr: 10,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Abhishek",
@@ -85,7 +85,7 @@ const resData = [
     SGPASem1: 8.73,
     SGPASem2: 9.09,
     Sr: 11,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Abhishek Tyagi",
@@ -93,7 +93,7 @@ const resData = [
     SGPASem1: 7.18,
     SGPASem2: 3.91,
     Sr: 12,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aditya Panwar",
@@ -101,7 +101,7 @@ const resData = [
     SGPASem1: 7.41,
     SGPASem2: 7.14,
     Sr: 13,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aditya Sangwan",
@@ -109,7 +109,7 @@ const resData = [
     SGPASem1: 6.05,
     SGPASem2: 6.0,
     Sr: 14,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aditya Yadav",
@@ -117,7 +117,7 @@ const resData = [
     SGPASem1: 2.95,
     SGPASem2: 4.32,
     Sr: 15,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aftab Ali",
@@ -125,7 +125,7 @@ const resData = [
     SGPASem1: 5.0,
     SGPASem2: 3.91,
     Sr: 16,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Akansha",
@@ -133,7 +133,7 @@ const resData = [
     SGPASem1: 6.45,
     SGPASem2: 7.05,
     Sr: 17,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aman Tyagi",
@@ -141,7 +141,7 @@ const resData = [
     SGPASem1: 6.82,
     SGPASem2: 6.82,
     Sr: 18,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Amardeep",
@@ -149,7 +149,7 @@ const resData = [
     SGPASem1: 5.36,
     SGPASem2: 6.14,
     Sr: 19,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Amrita Chauhan",
@@ -157,7 +157,7 @@ const resData = [
     SGPASem1: 8.5,
     SGPASem2: 8.68,
     Sr: 20,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Anil Yadav",
@@ -165,7 +165,7 @@ const resData = [
     SGPASem1: 2.73,
     SGPASem2: 0,
     Sr: 21,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Ankit Kumar Yadav",
@@ -173,7 +173,7 @@ const resData = [
     SGPASem1: 4.0,
     SGPASem2: 5.27,
     Sr: 22,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Ansh Ran Som",
@@ -181,7 +181,7 @@ const resData = [
     SGPASem1: 3.82,
     SGPASem2: 2.73,
     Sr: 23,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Anshika",
@@ -189,7 +189,7 @@ const resData = [
     SGPASem1: 7.73,
     SGPASem2: 7.14,
     Sr: 24,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Anshuman Sharma",
@@ -197,7 +197,7 @@ const resData = [
     SGPASem1: 7.73,
     SGPASem2: 7.0,
     Sr: 25,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Anuj Kumar",
@@ -205,7 +205,7 @@ const resData = [
     SGPASem1: 5.95,
     SGPASem2: 5.77,
     Sr: 26,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arjun",
@@ -213,7 +213,7 @@ const resData = [
     SGPASem1: 7.86,
     SGPASem2: 5.55,
     Sr: 27,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arjun Kumar",
@@ -221,7 +221,7 @@ const resData = [
     SGPASem1: 5.5,
     SGPASem2: 4.68,
     Sr: 28,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arpan Maji",
@@ -229,7 +229,7 @@ const resData = [
     SGPASem1: 6.82,
     SGPASem2: 6.86,
     Sr: 29,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arpit Saini",
@@ -237,7 +237,7 @@ const resData = [
     SGPASem1: 4.32,
     SGPASem2: 4.32,
     Sr: 30,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arpit Tyagi",
@@ -245,7 +245,7 @@ const resData = [
     SGPASem1: 7.23,
     SGPASem2: 7.14,
     Sr: 31,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arshpit Kharbanda",
@@ -253,7 +253,7 @@ const resData = [
     SGPASem1: 6.5,
     SGPASem2: 3.86,
     Sr: 32,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arjun Rawal",
@@ -261,7 +261,7 @@ const resData = [
     SGPASem1: 2.77,
     SGPASem2: 2.91,
     Sr: 33,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Arun Vats",
@@ -269,7 +269,7 @@ const resData = [
     SGPASem1: 8.5,
     SGPASem2: 8.55,
     Sr: 34,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aryan Sharma",
@@ -277,7 +277,7 @@ const resData = [
     SGPASem1: 7.09,
     SGPASem2: 6.73,
     Sr: 35,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aryan Singh",
@@ -285,7 +285,7 @@ const resData = [
     SGPASem1: 8.41,
     SGPASem2: 8.27,
     Sr: 36,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aryan Srivastava",
@@ -293,7 +293,7 @@ const resData = [
     SGPASem1: 5.64,
     SGPASem2: 6.55,
     Sr: 37,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aashish Kumar",
@@ -301,7 +301,15 @@ const resData = [
     SGPASem1: 8.0,
     SGPASem2: 7.41,
     Sr: 38,
-    dept: "CSE"
+    dept: "CSE",
+  },
+  {
+    name: "Avinash Som (HOST)",
+    roll: 2301280100039,
+    SGPASem1: 7.86,
+    SGPASem2: 8.05,
+    Sr: 39,
+    dept: "CSE",
   },
   {
     name: "Avni",
@@ -309,7 +317,7 @@ const resData = [
     SGPASem1: 3.86,
     SGPASem2: 6.05,
     Sr: 40,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Aayush Goswami",
@@ -317,7 +325,7 @@ const resData = [
     SGPASem1: 4.23,
     SGPASem2: 2.05,
     Sr: 41,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Ayush Grade",
@@ -325,7 +333,7 @@ const resData = [
     SGPASem1: 5.36,
     SGPASem2: 4.55,
     Sr: 42,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Ayushi Chaudary",
@@ -333,7 +341,7 @@ const resData = [
     SGPASem1: 8.18,
     SGPASem2: 8.5,
     Sr: 43,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Chetna Sharma",
@@ -341,7 +349,7 @@ const resData = [
     SGPASem1: 8.0,
     SGPASem2: 8.32,
     Sr: 44,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Chirag Tomar",
@@ -349,7 +357,7 @@ const resData = [
     SGPASem1: 7.95,
     SGPASem2: 7.27,
     Sr: 45,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Deepak",
@@ -357,7 +365,7 @@ const resData = [
     SGPASem1: 3.55,
     SGPASem2: 4.05,
     Sr: 46,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Deepika",
@@ -365,7 +373,7 @@ const resData = [
     SGPASem1: 8.14,
     SGPASem2: 8.36,
     Sr: 47,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Dev Sharma",
@@ -373,7 +381,7 @@ const resData = [
     SGPASem1: 7.86,
     SGPASem2: 5.14,
     Sr: 48,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Devansh Tyagi",
@@ -381,7 +389,7 @@ const resData = [
     SGPASem1: 3.05,
     SGPASem2: 2.82,
     Sr: 49,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Dimple",
@@ -389,7 +397,7 @@ const resData = [
     SGPASem1: 5.45,
     SGPASem2: 6.5,
     Sr: 50,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Dipra Rajput",
@@ -397,7 +405,7 @@ const resData = [
     SGPASem1: 8.55,
     SGPASem2: 8.27,
     Sr: 51,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Durgesh Singh Yadav",
@@ -405,7 +413,7 @@ const resData = [
     SGPASem1: 5.82,
     SGPASem2: 6.64,
     Sr: 52,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Esha Saini",
@@ -413,7 +421,7 @@ const resData = [
     SGPASem1: 8.95,
     SGPASem2: 8.95,
     Sr: 53,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Faraz Nawaz",
@@ -421,7 +429,7 @@ const resData = [
     SGPASem1: 1.86,
     SGPASem2: 0,
     Sr: 54,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Gargi",
@@ -429,7 +437,7 @@ const resData = [
     SGPASem1: 4.95,
     SGPASem2: 6.73,
     Sr: 55,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Garv Bhalla",
@@ -437,7 +445,7 @@ const resData = [
     SGPASem1: 7.23,
     SGPASem2: 6.77,
     Sr: 56,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Gaurav Saini",
@@ -445,7 +453,7 @@ const resData = [
     SGPASem1: 7.18,
     SGPASem2: 7.09,
     Sr: 57,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Gauri",
@@ -453,7 +461,7 @@ const resData = [
     SGPASem1: 8.5,
     SGPASem2: 8.09,
     Sr: 58,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Geetansh Kumar",
@@ -461,7 +469,7 @@ const resData = [
     SGPASem1: 4.55,
     SGPASem2: 6.41,
     Sr: 59,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Gunjan Sharma",
@@ -469,7 +477,7 @@ const resData = [
     SGPASem1: 8.05,
     SGPASem2: 6.32,
     Sr: 60,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Hanshika Bana",
@@ -477,7 +485,7 @@ const resData = [
     SGPASem1: 6.45,
     SGPASem2: 6.95,
     Sr: 61,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Harsh Kashyab",
@@ -485,7 +493,7 @@ const resData = [
     SGPASem1: 6.09,
     SGPASem2: 5.05,
     Sr: 62,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Harsh Kumar",
@@ -493,7 +501,7 @@ const resData = [
     SGPASem1: 7.27,
     SGPASem2: 6.45,
     Sr: 63,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Harsh Panwar",
@@ -501,7 +509,7 @@ const resData = [
     SGPASem1: 4.73,
     SGPASem2: 4.82,
     Sr: 64,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Hamant Som",
@@ -509,7 +517,7 @@ const resData = [
     SGPASem1: 3.86,
     SGPASem2: 2.14,
     Sr: 65,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Himanshu Goud",
@@ -517,7 +525,7 @@ const resData = [
     SGPASem1: 4.59,
     SGPASem2: 4.14,
     Sr: 66,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Himanshu Vats",
@@ -525,7 +533,7 @@ const resData = [
     SGPASem1: 7.86,
     SGPASem2: 7.18,
     Sr: 67,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Hritik Saini",
@@ -533,7 +541,7 @@ const resData = [
     SGPASem1: 7.55,
     SGPASem2: 8.14,
     Sr: 68,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Jay Surya Dutt ",
@@ -541,7 +549,7 @@ const resData = [
     SGPASem1: 7.95,
     SGPASem2: 7.36,
     Sr: 69,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kabir Tyagi",
@@ -549,7 +557,7 @@ const resData = [
     SGPASem1: 8.27,
     SGPASem2: 7.68,
     Sr: 70,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kamal Kumar",
@@ -557,7 +565,7 @@ const resData = [
     SGPASem1: 7.55,
     SGPASem2: 7.45,
     Sr: 71,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kanika Berry",
@@ -565,7 +573,7 @@ const resData = [
     SGPASem1: 7.73,
     SGPASem2: 7.82,
     Sr: 72,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kanika Singh",
@@ -573,7 +581,7 @@ const resData = [
     SGPASem1: 6.59,
     SGPASem2: 7.45,
     Sr: 73,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kanika Yadav",
@@ -581,7 +589,7 @@ const resData = [
     SGPASem1: 6.73,
     SGPASem2: 5.14,
     Sr: 74,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kanishka ",
@@ -589,7 +597,7 @@ const resData = [
     SGPASem1: 7.09,
     SGPASem2: 6.18,
     Sr: 75,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kartik",
@@ -597,7 +605,7 @@ const resData = [
     SGPASem1: 7.68,
     SGPASem2: 7.23,
     Sr: 76,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kartik Gautam",
@@ -605,7 +613,7 @@ const resData = [
     SGPASem1: 6.23,
     SGPASem2: 5.82,
     Sr: 77,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kashif",
@@ -613,7 +621,7 @@ const resData = [
     SGPASem1: 5.49,
     SGPASem2: 3.73,
     Sr: 78,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kavya Soni",
@@ -621,7 +629,7 @@ const resData = [
     SGPASem1: 7.36,
     SGPASem2: 6.18,
     Sr: 79,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Krish Sharma",
@@ -629,7 +637,7 @@ const resData = [
     SGPASem1: 6.0,
     SGPASem2: 5.59,
     Sr: 80,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Krishan Kumar",
@@ -637,7 +645,7 @@ const resData = [
     SGPASem1: 6.82,
     SGPASem2: 6.77,
     Sr: 81,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Krishan Kumar Yadav",
@@ -645,7 +653,7 @@ const resData = [
     SGPASem1: 7.45,
     SGPASem2: 5.45,
     Sr: 82,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Kushagra Tyagi",
@@ -653,7 +661,7 @@ const resData = [
     SGPASem1: 5.68,
     SGPASem2: 6.41,
     Sr: 83,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Lakshay Goswami",
@@ -661,7 +669,7 @@ const resData = [
     SGPASem1: 6.05,
     SGPASem2: 7.09,
     Sr: 84,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Lucky",
@@ -669,7 +677,7 @@ const resData = [
     SGPASem1: 7.0,
     SGPASem2: 4.9,
     Sr: 85,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Manisha Kala",
@@ -677,7 +685,7 @@ const resData = [
     SGPASem1: 6.77,
     SGPASem2: 7.23,
     Sr: 86,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Mayank Tyagi",
@@ -685,7 +693,7 @@ const resData = [
     SGPASem1: 7.05,
     SGPASem2: 4.77,
     Sr: 87,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Mayank Verma",
@@ -693,7 +701,7 @@ const resData = [
     SGPASem1: 7.05,
     SGPASem2: 5.45,
     Sr: 88,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Meghanshi Tyagi",
@@ -701,7 +709,7 @@ const resData = [
     SGPASem1: 6.59,
     SGPASem2: 6.68,
     Sr: 89,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Mohit",
@@ -709,7 +717,7 @@ const resData = [
     SGPASem1: 8.68,
     SGPASem2: 6.68,
     Sr: 90,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Muhammad Rayyan Ansari",
@@ -717,7 +725,7 @@ const resData = [
     SGPASem1: 6.91,
     SGPASem2: 5.91,
     Sr: 91,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Mujammil",
@@ -725,7 +733,7 @@ const resData = [
     SGPASem1: 7.27,
     SGPASem2: 5.23,
     Sr: 92,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Nandini",
@@ -733,7 +741,7 @@ const resData = [
     SGPASem1: 7.55,
     SGPASem2: 7.32,
     Sr: 93,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Nikhil Mittal",
@@ -741,7 +749,7 @@ const resData = [
     SGPASem1: 7.0,
     SGPASem2: 7.55,
     Sr: 94,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Nishant",
@@ -749,7 +757,7 @@ const resData = [
     SGPASem1: 8.55,
     SGPASem2: 7.91,
     Sr: 95,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Nitin Mittal",
@@ -757,7 +765,7 @@ const resData = [
     SGPASem1: 7.01,
     SGPASem2: 6.5,
     Sr: 96,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Palak",
@@ -765,7 +773,7 @@ const resData = [
     SGPASem1: 7.09,
     SGPASem2: 6.41,
     Sr: 97,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Paras Artish",
@@ -773,7 +781,7 @@ const resData = [
     SGPASem1: 7.41,
     SGPASem2: 6.36,
     Sr: 98,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Paras Sharma",
@@ -781,7 +789,7 @@ const resData = [
     SGPASem1: 6.18,
     SGPASem2: 4.5,
     Sr: 99,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Parth Sharma",
@@ -789,7 +797,7 @@ const resData = [
     SGPASem1: 5.55,
     SGPASem2: 3.73,
     Sr: 100,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Parul",
@@ -797,7 +805,7 @@ const resData = [
     SGPASem1: 0,
     SGPASem2: 0,
     Sr: 101,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Piyush Kumar",
@@ -805,7 +813,7 @@ const resData = [
     SGPASem1: 8.5,
     SGPASem2: 8.5,
     Sr: 102,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Prachi",
@@ -813,7 +821,7 @@ const resData = [
     SGPASem1: 8.18,
     SGPASem2: 7.86,
     Sr: 103,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Parnav Tyagi",
@@ -821,7 +829,7 @@ const resData = [
     SGPASem1: 7.41,
     SGPASem2: 6.95,
     Sr: 104,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Pranchal Sharma",
@@ -829,7 +837,7 @@ const resData = [
     SGPASem1: 6.77,
     SGPASem2: 5.95,
     Sr: 105,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Prince",
@@ -837,7 +845,7 @@ const resData = [
     SGPASem1: 4.23,
     SGPASem2: 5.14,
     Sr: 106,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Prince Kumar",
@@ -845,7 +853,7 @@ const resData = [
     SGPASem1: 4.18,
     SGPASem2: 3.09,
     Sr: 107,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Priyansh Saini",
@@ -853,7 +861,7 @@ const resData = [
     SGPASem1: 3.68,
     SGPASem2: 2.27,
     Sr: 108,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Pushkar Malik",
@@ -861,7 +869,7 @@ const resData = [
     SGPASem1: 8.36,
     SGPASem2: 7.05,
     Sr: 109,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Rajju Ali",
@@ -869,7 +877,7 @@ const resData = [
     SGPASem1: 4.27,
     SGPASem2: 2.55,
     Sr: 110,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Ratish Singh",
@@ -877,7 +885,7 @@ const resData = [
     SGPASem1: 6.36,
     SGPASem2: 4.82,
     Sr: 111,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Ritash Mishra",
@@ -885,7 +893,7 @@ const resData = [
     SGPASem1: 4.32,
     SGPASem2: 4.14,
     Sr: 112,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Rohan Sharma",
@@ -893,7 +901,7 @@ const resData = [
     SGPASem1: 8.09,
     SGPASem2: 6.91,
     Sr: 113,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sachin Kumar",
@@ -901,7 +909,7 @@ const resData = [
     SGPASem1: 5.05,
     SGPASem2: 4.05,
     Sr: 114,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sahil Khan",
@@ -909,7 +917,7 @@ const resData = [
     SGPASem1: 5.68,
     SGPASem2: 3.77,
     Sr: 115,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sakshi Agarwal",
@@ -917,7 +925,7 @@ const resData = [
     SGPASem1: 8.64,
     SGPASem2: 8.64,
     Sr: 116,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sakshi Garg",
@@ -925,7 +933,7 @@ const resData = [
     SGPASem1: 8.5,
     SGPASem2: 8.32,
     Sr: 117,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sakshi Gupta",
@@ -933,7 +941,7 @@ const resData = [
     SGPASem1: 8.77,
     SGPASem2: 8.36,
     Sr: 118,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sandeep Kumar",
@@ -941,7 +949,7 @@ const resData = [
     SGPASem1: 7.5,
     SGPASem2: 4.86,
     Sr: 119,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sanoj Kumar",
@@ -949,7 +957,7 @@ const resData = [
     SGPASem1: 7.77,
     SGPASem2: 7.59,
     Sr: 120,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Saral Bansal",
@@ -957,7 +965,7 @@ const resData = [
     SGPASem1: 4.59,
     SGPASem2: 3.14,
     Sr: 121,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Saurabh Saroj",
@@ -965,7 +973,7 @@ const resData = [
     SGPASem1: 6.14,
     SGPASem2: 6.68,
     Sr: 122,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sagun Rana",
@@ -973,7 +981,7 @@ const resData = [
     SGPASem1: 4.23,
     SGPASem2: 3.32,
     Sr: 123,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Salini Jaiswal",
@@ -981,7 +989,7 @@ const resData = [
     SGPASem1: 8.0,
     SGPASem2: 8.45,
     Sr: 124,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Shivam",
@@ -989,7 +997,7 @@ const resData = [
     SGPASem1: 5.41,
     SGPASem2: 6.41,
     Sr: 125,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Shreya Saroha",
@@ -997,7 +1005,7 @@ const resData = [
     SGPASem1: 5.91,
     SGPASem2: 6.18,
     Sr: 126,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Shubh Kumar",
@@ -1005,7 +1013,7 @@ const resData = [
     SGPASem1: 7.36,
     SGPASem2: 5.32,
     Sr: 127,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Shubham Choudhary",
@@ -1013,7 +1021,7 @@ const resData = [
     SGPASem1: 7.68,
     SGPASem2: 6.55,
     Sr: 128,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sidak Kaur",
@@ -1021,7 +1029,7 @@ const resData = [
     SGPASem1: 8.0,
     SGPASem2: 7.82,
     Sr: 129,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Simone Anand",
@@ -1029,7 +1037,7 @@ const resData = [
     SGPASem1: 7.05,
     SGPASem2: 6.18,
     Sr: 130,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sneha",
@@ -1037,7 +1045,7 @@ const resData = [
     SGPASem1: 8.5,
     SGPASem2: 4.95,
     Sr: 131,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sonakshi Garg",
@@ -1045,7 +1053,7 @@ const resData = [
     SGPASem1: 8.55,
     SGPASem2: 8.91,
     Sr: 132,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sonu Thakran",
@@ -1053,7 +1061,7 @@ const resData = [
     SGPASem1: 6.09,
     SGPASem2: 4.55,
     Sr: 133,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sumit Kumar",
@@ -1061,7 +1069,7 @@ const resData = [
     SGPASem1: 7.41,
     SGPASem2: 8.23,
     Sr: 134,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sumit Verma",
@@ -1069,7 +1077,7 @@ const resData = [
     SGPASem1: 7.55,
     SGPASem2: 6.77,
     Sr: 135,
-    dept: "CSE"
+    dept: "CSE",
   },
   {
     name: "Sunny Dhruv",
@@ -1077,8 +1085,272 @@ const resData = [
     SGPASem1: 8.64,
     SGPASem2: 8.36,
     Sr: 136,
-    dept: "CSE"
+    dept: "CSE",
+  },
+  {
+    name: "Sunny Nagar",
+    roll: 2301280100141,
+    SGPASem1: 8.18,
+    SGPASem2: 7.18,
+    Sr: 137,
+    dept: "CSE",
+  },
+  {
+    name: "Tanishka Dixit",
+    roll: 2301280100142,
+    SGPASem1: 7.05,
+    SGPASem2: 5.55,
+    Sr: 138,
+    dept: "CSE",
+  },
+  {
+    name: "Tanishka Sharma",
+    roll: 2301280100143,
+    SGPASem1: 7.05,
+    SGPASem2: 7.68,
+    Sr: 139,
+    dept: "CSE",
+  },
+  {
+    name: "Tanishq Tyagi",
+    roll: 2301280100144,
+    SGPASem1: 6.05,
+    SGPASem2: 5.05,
+    Sr: 140,
+    dept: "CSE",
+  },
+  {
+    name: "Tanu Sharma",
+    roll: 2301280100145,
+    SGPASem1: 4,
+    SGPASem2: 3.09,
+    Sr: 141,
+    dept: "CSE",
+  },
+  {
+    name: "Tarun Choudhary",
+    roll: 2301280100146,
+    SGPASem1: 8.32,
+    SGPASem2: 8.77,
+    Sr: 142,
+    dept: "CSE",
+  },
+  {
+    name: "Tiya Tyagi",
+    roll: 2301280100147,
+    SGPASem1: 6.55,
+    SGPASem2: 5.41,
+    Sr: 143,
+    dept: "CSE",
+  },
+  {
+    name: "Tushar Kumar",
+    roll: 2301280100148,
+    SGPASem1: 7.55,
+    SGPASem2: 7.68,
+    Sr: 144,
+    dept: "CSE",
+  },
+  {
+    name: "Tushar Sharma",
+    roll: 2301280100149,
+    SGPASem1: 6.55,
+    SGPASem2: 3.05,
+    Sr: 145,
+    dept: "CSE",
+  },
+  {
+    name: "Tushar Tyagi",
+    roll: 2301280100150,
+    SGPASem1: 4.95,
+    SGPASem2: 4.45,
+    Sr: 146,
+    dept: "CSE",
+  },
+  {
+    name: "Uvais Shah",
+    roll: 2301280100151,
+    SGPASem1: 6.73,
+    SGPASem2: 6.73,
+    Sr: 147,
+    dept: "CSE",
+  },
+  {
+    name: "Vaibhav Kumar",
+    roll: 2301280100152,
+    SGPASem1: 7.45,
+    SGPASem2: 5.05,
+    Sr: 148,
+    dept: "CSE",
+  },
+  {
+    name: "Vaibhav Saini",
+    roll: 2301280100153,
+    SGPASem1: 3.86,
+    SGPASem2: 4.59,
+    Sr: 149,
+    dept: "CSE",
+  },
+  {
+    name: "Vansh",
+    roll: 2301280100154,
+    SGPASem1: 7.09,
+    SGPASem2: 7.14,
+    Sr: 150,
+    dept: "CSE",
+  },
+  {
+    name: "Vansh Pal",
+    roll: 2301280100155,
+    SGPASem1: 3.41,
+    SGPASem2: 5.41,
+    Sr: 151,
+    dept: "CSE",
+  },
+  {
+    name: "Vanshika Sharma",
+    roll: 2301280100156,
+    SGPASem1: 8.82,
+    SGPASem2: 7.77,
+    Sr: 152,
+    dept: "CSE",
+  },
+  {
+    name: "Varnika Jain",
+    roll: 2301280100157,
+    SGPASem1: 6.09,
+    SGPASem2: 5.86,
+    Sr: 153,
+    dept: "CSE",
+  },
+  {
+    name: "Vashistha Pal",
+    roll: 2301280100158,
+    SGPASem1: 2.05,
+    SGPASem2: 0,
+    Sr: 154,
+    dept: "CSE",
+  },
+  {
+    name: "Vinayak jana",
+    roll: 2301280100160,
+    SGPASem1: 5.27,
+    SGPASem2: 5.41,
+    Sr: 155,
+    dept: "CSE",
+  },
+  {
+    name: "Vishal Kumar",
+    roll: 2301280100161,
+    SGPASem1: 4.95,
+    SGPASem2: 2.18,
+    Sr: 156,
+    dept: "CSE",
+  },
+  {
+    name: "Vishal Tomar",
+    roll: 2301280100162,
+    SGPASem1: 6.36,
+    SGPASem2: 6.59,
+    Sr: 157,
+    dept: "CSE",
+  },
+  {
+    name: "Vishu",
+    roll: 2301280100163,
+    SGPASem1: 5.41,
+    SGPASem2: 4.14,
+    Sr: 158,
+    dept: "CSE",
+  },
+  {
+    name: "Vishu Jindal",
+    roll: 2301280100164,
+    SGPASem1: 2.18,
+    SGPASem2: 2.14,
+    Sr: 159,
+    dept: "CSE",
+  },
+  {
+    name: "Vitul",
+    roll: 2301280100165,
+    SGPASem1: 6.59,
+    SGPASem2: 6.05,
+    Sr: 160,
+    dept: "CSE",
+  },
+  {
+    name: "Vivek Kumar",
+    roll: 2301280100166,
+    SGPASem1: 1.73,
+    SGPASem2: 0,
+    Sr: 161,
+    dept: "CSE",
+  },
+  {
+    name: "Yash ",
+    roll: 2301280100167,
+    SGPASem1: 8.41,
+    SGPASem2: 7.36,
+    Sr: 162,
+    dept: "CSE",
+  },
+  {
+    name: "Yash Chauhan",
+    roll: 2301280100168,
+    SGPASem1: 6.64,
+    SGPASem2: 3.95,
+    Sr: 163,
+    dept: "CSE",
+  },
+  {
+    name: "Yash Saini",
+    roll: 2301280100169,
+    SGPASem1: 5.27,
+    SGPASem2: 6.73,
+    Sr: 164,
+    dept: "CSE",
+  },
+  {
+    name: "Yash Saini",
+    roll: 2301280100170,
+    SGPASem1: 7.36,
+    SGPASem2: 6.64,
+    Sr: 165,
+    dept: "CSE",
+  },
+  {
+    name: "Yuvaan Yadav",
+    roll: 2301280100171,
+    SGPASem1: 5.14,
+    SGPASem2: 4.05,
+    Sr: 166,
+    dept: "CSE",
+  },
+  {
+    name: "	AADESH KUMAR",
+    roll: 2301281530001,
+    SGPASem1: 7.73,
+    SGPASem2: 7.77,
+    Sr: 167,
+    dept: "AI&ML",
+  },
+  {
+    name: "	Aaditya Panwar",
+    roll: 2301281530002,
+    SGPASem1: 6.68,
+    SGPASem2: 5.91,
+    Sr: 168,
+    dept: "AI&ML",
+  },
+  {
+    name: "Abhinav Rana",
+    roll: 2301281530003,
+    SGPASem1: 7.95,
+    SGPASem2: 6.82,
+    Sr: 169,
+    dept: "AI&ML",
   },
 ];
 
-module.exports = { data: resData };
+module.exports = { data: resData };
