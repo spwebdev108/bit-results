@@ -22,7 +22,7 @@ async function main() {
     await mongoose.connect(dbUrl);
 }
 
-app.set("view engine ", "ejs");
+app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "/views"));
 app.use(express.static(path.join(__dirname, "/public")));
 
@@ -78,7 +78,7 @@ app.get("/search", async (req, res) => {
 });
 
 app.listen(PORT, async () => {
-  await connectDB();
+  // await connectDB();
   console.log(`Server running on http://localhost:${PORT}`);
 });
 
