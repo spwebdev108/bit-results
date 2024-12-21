@@ -22,14 +22,37 @@ app.set("view engine ", "ejs");
 app.set("views", path.join(__dirname, "/views"));
 app.use(express.static(path.join(__dirname, "/public")));
 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }))
+
 app.get('/', (req, res) => {
     res.render("./results/home.ejs")
 })
 
+// app.get("/results", async (req, res) => {
+//     let allResults = await result.find({});
+//     res.render("./results/index.ejs", { allResults })
+// })
 app.get("/results", async (req, res) => {
-    let allResults = await result.find({});
-    res.render("./results/index.ejs", { allResults })
-})
+  try {
+      const { query } = req.query; // Use req.query for GET requests
+      const searchCriteria = query
+          ? {
+              $or: [
+                  { name: { $regex: query, $options: 'i' } }, 
+              ]
+          }
+          : {}; // If no query, return all results
+
+      const filteredResults = await result.find(searchCriteria);
+      console.log(filteredResults);
+
+      res.render("./results/index.ejs", { allResults: filteredResults }); // Pass filtered results to the view
+  } catch (error) {
+      console.error(error);
+      res.status(500).send("An error occurred while fetching results.");
+    }
+});
 
 app.get("/results/:id", async (req, res) => {
     let { id } = req.params;
