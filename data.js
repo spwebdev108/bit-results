@@ -304,14 +304,6 @@ const resData = [
     dept: "CSE",
   },
   {
-    name: "Avinash Som (HOST)",
-    roll: 2301280100039,
-    SGPASem1: 7.86,
-    SGPASem2: 8.05,
-    Sr: 39,
-    dept: "CSE",
-  },
-  {
     name: "Avni",
     roll: 2301280100040,
     SGPASem1: 3.86,
