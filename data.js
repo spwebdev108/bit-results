@@ -304,6 +304,11 @@ const resData = [
     dept: "CSE",
   },
   {
+    name: "Data-Not-Found",
+    Sr: 39,
+    dept: "CSE",
+  },
+  {
     name: "Avni",
     roll: 2301280100040,
     SGPASem1: 3.86,
